@@ -1,0 +1,25 @@
+.template {
+    display: flex;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.templateImg {
+    width: 50%;
+}
+
+.templateText {
+    width: 50%;
+}
+
+.ebooks {
+    display: flex;
+}
+
+.ebooksBox {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+

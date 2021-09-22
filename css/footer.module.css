@@ -1,0 +1,65 @@
+div.container {
+    background-color: #23232e;
+    padding-top: 2em;
+    padding-bottom: 40px;
+    border-top: 5px solid #3381F3;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    text-align: center;    
+    margin: 0;
+}
+
+div.grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+div.artigos {
+    text-decoration: none;
+    list-style: none;
+
+}
+
+div.empresa {
+    color: #E7E6E6;
+}
+
+div.artigo {
+    color:  #E7E6E6;    
+}
+
+div.redeSocial {
+    color: #E7E6E6;
+}
+
+ul.ulArtigo {
+    list-style: none;
+}
+
+a.aArtigo {
+    text-decoration: none;
+    color: #E7E6E6;
+    background-color: aqua;
+}
+
+ul.ulRedeSocial {
+    list-style: none;
+    text-align: center;
+}
+
+a.aRedeSocial {
+    text-decoration: none;
+    color: #E7E6E6;
+}
+
+div.copyright {
+    border-top: 3px solid #E7E6E6;
+}
+
+.escrito {
+    margin-left: 20px;
+    text-align: center;
+    color: #E7E6E6;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "lbeciencia1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lv1500/LBECiencia1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lv1500/LBECiencia1/issues"
+  },
+  "homepage": "https://github.com/lv1500/LBECiencia1#readme",
+  "dependencies": {
+    "@prismicio/client": "^5.1.0",
+    "bootstrap": "^5.1.1",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reactstrap": "^8.10.0"
+  }
+}
